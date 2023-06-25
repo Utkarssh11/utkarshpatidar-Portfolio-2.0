@@ -24,7 +24,7 @@ Welcome to my portfolio website! Here, you can explore my skills, projects,etc. 
 
 ## Screenshot 📷
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](https://github.com/Utkarssh11/Utkarsh-Portfolio-2.0/blob/main/Gif2.gif?raw=true)
 
 ## Live Link 🔗
 
